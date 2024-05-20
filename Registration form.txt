@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+<title>Document</title>
+</head>
+<body>
+
+<h1> Garden city univercity</h1> 1
+<form>
+    <fieldset>
+        <legend>Registration Form</legend>
+<label>Name:</label>
+<input type ="text">
+<br>
+<label>DOB:</label>
+<input type ="date">
+<br>
+<label>Gender</label>
+<br>
+<input type="radio" name = gender>
+<label> male </label>
+<input type="radio" name = gender>
+<label>female </label>
+<input type="radio" name = gender>
+<label> other </label>
+
+</head>
+</fieldset>
+</form>
+</body>
+</html> 
